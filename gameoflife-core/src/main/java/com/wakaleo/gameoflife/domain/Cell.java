@@ -1,5 +1,8 @@
 package com.wakaleo.gameoflife.domain;
 
+/****
+ * uu
+ */
 public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
 
